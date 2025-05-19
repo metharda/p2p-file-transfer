@@ -14,7 +14,6 @@ This project is a peer-to-peer (P2P) file sharing application. It allows users t
 * **Basic UI:** A simple user interface to interact with the application, showing connected peers, search results, and download progress.
 
 ## Technical Details
-
 * **Programming Languages:**
     * **Frontend:** TypeScript
     * **Backend:** Python
@@ -23,6 +22,10 @@ This project is a peer-to-peer (P2P) file sharing application. It allows users t
 * **Networking**: The application uses websockets for network communication between peers.
 * **Protocol:** A custom protocol is used for peer communication, including file search requests, file transfer, and peer discovery.
 * **Threading/Async:** The application uses multi-threading (in Python) and asynchronous operations (in TypeScript) to handle concurrent operations, such as managing multiple connections and downloads simultaneously.
+
+## System Design
+![System Design](./system-design.png)
+
 ## Getting Started
 
 ### Prerequisites
