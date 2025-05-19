@@ -58,7 +58,7 @@ The application provides a user-friendly GUI for interacting with the P2P networ
 * **File Search with List** You can create a .txt file containing names of files you want to download and with a simple "drag&drop or select" box you can easily download all files in the list simultaneously, if any peer has these files.
 * **Publicly Shared Folder** In backend folder you can put any file you want to share with the network in publicFiles folder. It flags any file in that folder as downloadable.
 
-## Future Enhancements
+## Future Plans
 * **Improved UI:** A more user-friendly and feature-rich graphical user interface (GUI).
 * **Advanced Search:** Support for more advanced search options, such as filtering by file type, size, or other criteria.
 * **Security:** Enhanced security features, such as encryption and authentication, to protect against malicious peers and data corruption.
