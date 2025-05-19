@@ -39,7 +39,7 @@ This project is a peer-to-peer (P2P) file sharing application. It allows users t
 2. **Install Backend Dependencies and Start the Backend**
     ```bash
     cd python-backend
-    python3 -m venv your-venv #If you want to use python virtual environment, if don't want to you can skip this step
+    python3 -m venv your-venv #If don't want to use python virtual environment you can skip this step
     pip install -r requirements.txt
     python3 main.py
     ```
